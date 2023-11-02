@@ -1,0 +1,6 @@
+[submodule "background_removal/methods/DIS"]
+	path = background_removal/methods/DIS
+	url = git@github.com:finesseus/DIS.git
+[submodule "background_removal/methods/rembg"]
+	path = background_removal/methods/rembg
+	url = git@github.com:mario-finesse/rembg.git

@@ -1,0 +1,11 @@
+name: remove-bg
+channels:
+  - conda-forge
+  - anaconda
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - -e .
